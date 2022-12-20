@@ -2,7 +2,7 @@ import React from 'react'
 
 const ProjectPage = () => {
   return (
-    <div>
+    <div className ='bg-black text-green-700 min-h-screen'>
         <h1>Projects</h1>
 <p>Here are a couple of my projects that I did and currently working on!</p>
 <ul>

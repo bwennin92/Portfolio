@@ -2,7 +2,7 @@ import React from 'react'
 
 const GoalPage = () => {
   return (
-    <div>
+    <div className ='bg-black text-blue-700 min-h-screen'>
         <h1>Goals</h1>
         <ul>
             <li>Develop my skills</li>
