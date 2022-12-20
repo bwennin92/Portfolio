@@ -2,7 +2,7 @@ import React from 'react'
 
 const HobbiePage = () => {
   return (
-    <div className = 'bg-black text-green-700 min-h-full'>
+    <div className = 'bg-black text-green-700 min-h-screen'>
         <h1>Hobbies</h1>
     <ul>
         <li>Playing Video Games</li>
