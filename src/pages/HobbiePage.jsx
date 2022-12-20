@@ -6,6 +6,7 @@ const HobbiePage = () => {
         <h1>Hobbies</h1>
     <ul>
         <li>Playing Video Games</li>
+        
         <li>Learning new code languages</li>
         <li>Hiking</li>
         <li>Going to the beach</li>
