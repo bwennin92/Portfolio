@@ -1,5 +1,5 @@
 import './App.css';
-import {Link, Route, Routes,BrowserRouter} from "react-router-dom"
+import {Route, Routes,BrowserRouter} from "react-router-dom"
 import AboutPage from './pages/aboutpage';
 import NavBar from './components/navbar';
 import HobbiePage from './pages/HobbiePage';
