@@ -8,9 +8,9 @@ const HobbiePage = () => {
       
         <ul>
           <li>Playing Video Games
-          <img src="../images/Halo2.jpg" alt="Halo2" />
-          <img src="../images/10.0_Dragonflight_BrowsingCard_960x540.webp" alt="World of Warcraft" />
-          <img src="../images/capsule_616x353.jpg" alt="Final Fantasy" />
+          <img src="https://bit.ly/halo2chief" alt="Halo2" />
+          <img src="..https://bit.ly/dragonsWoW" alt="World of Warcraft" />
+          <img src="https://bit.ly/ffxivpally" alt="Final Fantasy" />
           </li>
           <li>Learning new code languages</li>
           <li>Hiking</li>
