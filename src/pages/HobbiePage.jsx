@@ -10,8 +10,6 @@ const HobbiePage = () => {
         <ul>
           <li>Playing Video Games
           <Images/>
-          <img src="..https://bit.ly/dragonsWoW" alt="World of Warcraft" />
-          <img src="https://bit.ly/ffxivpally" alt="Final Fantasy" />
           </li>
           <li>Learning new code languages and frameworks</li>
           <img src="https://bit.ly/javaSlogo" alt="JavaScriptLogo" />
