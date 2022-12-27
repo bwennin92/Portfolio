@@ -1,5 +1,6 @@
 import React from "react";
 import HobbieComp from "../components/HobbieComp";
+import Images from "../components/Images";
 const HobbiePage = () => {
   return (
     <div className="bg-black text-green-700 min-h-screen">
@@ -8,7 +9,7 @@ const HobbiePage = () => {
       
         <ul>
           <li>Playing Video Games
-          <img src="https://bit.ly/halo2chief" alt="Halo2" />
+          <Images/>
           <img src="..https://bit.ly/dragonsWoW" alt="World of Warcraft" />
           <img src="https://bit.ly/ffxivpally" alt="Final Fantasy" />
           </li>
