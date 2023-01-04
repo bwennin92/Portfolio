@@ -3,7 +3,7 @@ import React from 'react'
 const Images = () => {
   return (
     <div>
-        <ul className=' flex gap-4 shrink'>
+        <ul className='flex gap-4 flex-shrink-3'>
         <img src= {require("../Pictures/Halo_2_art.0.webp")} alt="Halo2" />
         <img src={require("../Pictures/WoWDragon.webp")} alt="World Of Warcraft" />
         <img src={require("../Pictures/ffxiv-endwalker-editions_3.webp")} alt="Final Fantasy" />
