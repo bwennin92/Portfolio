@@ -26,3 +26,4 @@ const HobbiePage = () => {
 };
 
 export default HobbiePage;
+

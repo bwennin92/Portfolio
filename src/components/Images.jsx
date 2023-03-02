@@ -9,7 +9,6 @@ const Images = () => {
         <img src={require("../Pictures/ffxiv-endwalker-editions_3.webp")} alt="Final Fantasy" />
         </ul>
         </div>
-    
   )
 }
 
