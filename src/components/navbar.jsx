@@ -10,6 +10,7 @@ const navigation = [
     { name: 'About Me', href: '/about'},
     { name: 'Goals', href: '/goals'},
     { name: 'Hobbies', href: '/hobbies'},
+    
   ]
   function classNames(...classes) {
     return classes.filter(Boolean).join(' ')
@@ -128,7 +129,7 @@ const navigation = [
               <div className="px-2 pt-2 pb-3 space-y-1">
                 {navigation.map((item) => (
                   
-                  <Link to = {item.href}>
+                  <Link key={item.href} to = {item.href}>
                     <Disclosure.Button
                       key={item.name}
                       as="a"
