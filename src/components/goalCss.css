@@ -1,0 +1,10 @@
+.background_container{
+    
+    color: white;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height:870px;
+    font-size: 50px;
+    
+}
